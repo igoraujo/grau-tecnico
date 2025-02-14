@@ -17,7 +17,7 @@ Localizado em Ribeirão das Neves, Brasil Contém projetos de curso, tarefas e r
   - **📁 Aula-02-Conceitos-informática-Hardware-Software-Revisao-SO-Windows-Linux/**
     - [📝 Atividade-Fixacao-01-20250212.pdf](./Informatica-Educativa/Aula-02-Conceitos-informática-Hardware-Software-Revisao-SO-Windows-Linux/Atividade-Fixacao-01-20250212.pdf)
     - [📝 Atividade-Fixacao-01-resolvido-20250212.pdf](./Informatica-Educativa/Aula-02-Conceitos-informática-Hardware-Software-Revisao-SO-Windows-Linux/Atividade-Fixacao-01-resolvido-20250212.pdf)
-    - [📃 Material-Apoio-Aula-02](./Material-Apoio-Aula-02.pdf)
+    - [📃 Material-Apoio-Aula-02](./Informatica-Educativa/Aula-02-Conceitos-informática-Hardware-Software-Revisao-SO-Windows-Linux/Material-Apoio-Aula-02.pdf)
   - **📁 Aula-03-Virtualbox-SO-Linux-Distro-Ubuntu/**
       - 📃 Plano-de-Aula-Instalacao-do-Ubuntu.pdf
       - 📃 Plano-de-Aula-Instalacao-Microsoft-Windows-10.pdf
