@@ -43,7 +43,7 @@
 
 📌 **Atividade Prática:**  
 - Digitar um pequeno texto e aplicar diferentes estilos de formatação.  
-
+    - [Atividade Pratica](https://docentes.ifrn.edu.br/aryalves/disciplinas/informatica-basica/lista-de-exercicos-2-microsoft-word)
 ---
 
 ### **3. Inserção de Elementos (30 min)**  
