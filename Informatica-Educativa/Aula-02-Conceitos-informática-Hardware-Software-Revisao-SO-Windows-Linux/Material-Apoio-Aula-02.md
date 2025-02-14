@@ -1,4 +1,7 @@
-**Aula: Trabalhando com Sistemas Operacionais da Microsoft e Comparação Windows x Linux**
+# Aula: Trabalhando com Sistemas Operacionais da Microsoft e Comparação Windows x Linux
+
+>**Instrutor**: 👨🏾‍💻 Igor Araújo    
+**Linkedin**: 🔗 https://www.linkedin.com/in/igoraujo
 
 ---
 

@@ -1,7 +1,7 @@
-## **Plano de Aula: Instalação do Ubuntu 20.04 no VirtualBox e Comandos Básicos**  
+# Plano de Aula: Instalação do Ubuntu 20.04 no VirtualBox e Comandos Básicos  
 
->**Instrutor**: Igor Araújo    
-**Linkedin**: https://www.linkedin.com/in/igoraujo 
+>**Instrutor**: 👨🏾‍💻 Igor Araújo    
+**Linkedin**: 🔗 https://www.linkedin.com/in/igoraujo
 
 ---
 
