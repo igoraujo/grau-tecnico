@@ -17,11 +17,14 @@
 │   ├── 📁 Aula-02 #Conceitos de Informática Hardware x Software e Revisao dos SOs Windows e Linux
 │   │   ├── 📄 Atividade-Fixacao-01-Resolvido.pdf
 │   │   ├── 📄 Atividade-Fixacao-01.pdf
-│   │   └── 📄 Material-Apoio
+│   │   └── 📄 Material-Apoio.pdf
 │   ├── 📁 Aula-03 #Virtualizacao (Virtualboz) e Linux (Distro Ubuntu)
-│   │   └── 📄 Instalacao-do-Ubuntu.pdf
-│   ├── 📁 Aula-04 #Virtualbox SOs Linux e Distro Linux Ubuntu
-│   └── 📄 Microsoft-Word.pdf
+│   │   ├── 📄 Instalacao-do-Ubuntu.pdf
+│   │   └── 📄 Introducao-Microsoft-Word.pdf
+│   ├── 📁 Aula-04 # Fundamentos e atalhoss de teclado, Virtualbox SOs Linux e Distro Linux Ubuntu.
+│   │   ├── 📄 Material-Apoio-Atalhos-Funcoes-Teclado.pdf
+│   │   └── 📄 Material-Apoio-Windows-Linux-Fundamentos-Estrutura-Comparacao.pdf
+│   └── 📄 MÓDULO I-Informatica-Educativa-Redes.pdf
 └── 📄 README.md
 ```
 
