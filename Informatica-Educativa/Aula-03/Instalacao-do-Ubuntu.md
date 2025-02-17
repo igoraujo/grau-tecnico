@@ -2,6 +2,7 @@
 
 >**Instrutor**: 👨🏾‍💻 Igor Araújo    
 **Linkedin**: 🔗 https://www.linkedin.com/in/igoraujo
+**Data**: 14/02/2023
 
 ---
 

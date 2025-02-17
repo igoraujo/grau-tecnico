@@ -2,13 +2,14 @@
 
 >**Instrutor**: Igor Araújo    
 **Linkedin**: https://www.linkedin.com/in/igoraujo 
+**Data**: 14/02/2023
 
 ---
 
 **Duração:** 2 horas  
 **Público-alvo:** Microsoft Word  
 **Objetivo:** Apresentar a interface, ferramentas básicas e funcionalidades essenciais do Microsoft Word para criação e edição de documentos.  
-
+**Apostila:** [Guia Oficial do Microsoft Word](https://support.microsoft.com/pt-br/word)
 ---
 
 ### **1. Introdução ao Microsoft Word (15 min)**  
@@ -117,5 +118,12 @@
   - Ctrl + P → Imprimir  
 
 ---
+
+## 🔗  Links Úteis
+
+[📝 Guia Oficial do Microsoft Word](https://support.microsoft.com/pt-br/word)
+
+>**Instrutor**: 👨🏾‍💻 Igor Araújo    
+**Linkedin**: 🔗 https://www.linkedin.com/in/igoraujo
 
 Se precisar de ajustes, me avise! 🚀
