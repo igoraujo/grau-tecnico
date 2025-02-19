@@ -23,7 +23,7 @@
 │   │   └── 📄 Introducao-Microsoft-Word.md
 │   ├── 📁 Aula-04 # Fundamentos e atalhoss de teclado, Virtualbox SOs Linux e Distro Linux Ubuntu.
 │   │   ├── 📄 Material-Apoio-Atalhos-Funcoes-Teclado.md
-│   │   ├── 📄 Material-Apoio-Windows-Linux-Fundamentos-Estrutura-Comparacao.md
+│   │   ├── 📄 Material-Apoio-Windows-Linux-Fundamentos-Estrutura-Comparacao.md 
 │   │   └── 📄 Pratica-Linux.md
 │   └── 📄 MÓDULO I-Informatica-Educativa-Redes.md
 └── 📄 README.md
