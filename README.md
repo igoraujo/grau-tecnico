@@ -18,7 +18,7 @@
 │   │   ├── 📄 Atividade-Fixacao-01-Resolvido.pdf
 │   │   ├── 📄 Atividade-Fixacao-01.pdf
 │   │   └── 📄 Material-Apoio.pdf
-│   ├── 📁 Aula-03 #Virtualizacao (Virtualboz) e Linux (Distro Ubuntu)
+│   ├── 📁 Aula-03 #Virtualizacao (Virtualbox) e Linux (Distro Ubuntu)
 │   │   ├── 📄 Instalacao-do-Ubuntu.pdf
 │   │   └── 📄 Introducao-Microsoft-Word.pdf
 │   ├── 📁 Aula-04 # Fundamentos e atalhoss de teclado, Virtualbox SOs Linux e Distro Linux Ubuntu.
