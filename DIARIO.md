@@ -50,6 +50,8 @@
 **📝 Atividades:**
 - ⚙️ Configuração e instalação do Ubuntu 20.04
 - 💻 Navegação básica e comandos no terminal
+- 📦 instalando pacote `sudo` no ubuntu
+- ⚙️ Adicionando usuarios ao grupo de administradores (`sudo`)
 
 ---
 <!-- 
