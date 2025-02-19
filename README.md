@@ -15,16 +15,17 @@
 .
 ├── 📁 Informatica-Educativa/: #Contém materiais e atividades das aulas da matéria Informática Educativa.
 │   ├── 📁 Aula-02 #Conceitos de Informática Hardware x Software e Revisao dos SOs Windows e Linux
-│   │   ├── 📄 Atividade-Fixacao-01-Resolvido.pdf
-│   │   ├── 📄 Atividade-Fixacao-01.pdf
-│   │   └── 📄 Material-Apoio.pdf
+│   │   ├── 📄 Atividade-Fixacao-01-Resolvido.md
+│   │   ├── 📄 Atividade-Fixacao-01.md
+│   │   └── 📄 Material-Apoio.md
 │   ├── 📁 Aula-03 #Virtualizacao (Virtualbox) e Linux (Distro Ubuntu)
-│   │   ├── 📄 Instalacao-do-Ubuntu.pdf
-│   │   └── 📄 Introducao-Microsoft-Word.pdf
+│   │   ├── 📄 Instalacao-do-Ubuntu.md
+│   │   └── 📄 Introducao-Microsoft-Word.md
 │   ├── 📁 Aula-04 # Fundamentos e atalhoss de teclado, Virtualbox SOs Linux e Distro Linux Ubuntu.
-│   │   ├── 📄 Material-Apoio-Atalhos-Funcoes-Teclado.pdf
-│   │   └── 📄 Material-Apoio-Windows-Linux-Fundamentos-Estrutura-Comparacao.pdf
-│   └── 📄 MÓDULO I-Informatica-Educativa-Redes.pdf
+│   │   ├── 📄 Material-Apoio-Atalhos-Funcoes-Teclado.md
+│   │   ├── 📄 Material-Apoio-Atalhos-Funcoes-Teclado.md
+│   │   └── 📄 Material-Apoio-Windows-Linux-Fundamentos-Estrutura-Comparacao.md
+│   └── 📄 MÓDULO I-Informatica-Educativa-Redes.md
 └── 📄 README.md
 ```
 
