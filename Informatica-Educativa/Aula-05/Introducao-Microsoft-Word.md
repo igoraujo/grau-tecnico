@@ -6,10 +6,10 @@
 
 ---
 
-**Duração:** 2 horas  
 **Público-alvo:** Microsoft Word  
 **Objetivo:** Apresentar a interface, ferramentas básicas e funcionalidades essenciais do Microsoft Word para criação e edição de documentos.  
 **Apostila:** [Guia Oficial do Microsoft Word](https://support.microsoft.com/pt-br/word)
+
 ---
 
 ### **1. Introdução ao Microsoft Word (15 min)**  
@@ -96,7 +96,7 @@
 
 ### **Materiais de Apoio:**  
 📌 **Guia Oficial do Microsoft Word:** [Suporte Microsoft Word](https://support.microsoft.com/pt-br/word)  
-📌 **Atalhos úteis do Word:**  
+📌 **Atalhos úteis do Word :us: :**  
   - Ctrl + B → Negrito  
   - Ctrl + I → Itálico  
   - Ctrl + U → Sublinhado  
@@ -107,7 +107,7 @@
   - Ctrl + Y ou Ctrl + Shift + Z → Refazer 
   - Ctrl + P → Imprimir  
 
-📌 **Atalhos úteis do Word:**  
+📌 **Atalhos úteis do Word :brazil:**  
   - Ctrl + N → Negrito  
   - Ctrl + I → Itálico  
   - Ctrl + S → Sublinhado  
@@ -123,7 +123,6 @@
 
 [📝 Guia Oficial do Microsoft Word](https://support.microsoft.com/pt-br/word)
 
->**Instrutor**: 👨🏾‍💻 Igor Araújo    
-**Linkedin**: 🔗 https://www.linkedin.com/in/igoraujo
+---
 
 Se precisar de ajustes, me avise! 🚀

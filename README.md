@@ -13,19 +13,25 @@
 ```bash
 📦 grau-tecnico
 .
-├── 📁 Informatica-Educativa/: #Contém materiais e atividades das aulas da matéria Informática Educativa.
-│   ├── 📁 Aula-02 #Conceitos de Informática Hardware x Software e Revisao dos SOs Windows e Linux
+├── 📁 Informatica-Educativa/: # Contém materiais e atividades das aulas da matéria Informática Educativa.
+│   ├── 📁 Aula-02 # Conceitos de Informática Hardware x Software e Revisao dos SOs Windows e Linux
 │   │   ├── 📄 Atividade-Fixacao-01-Resolvido.md
 │   │   ├── 📄 Atividade-Fixacao-01.md
 │   │   └── 📄 Material-Apoio.md
-│   ├── 📁 Aula-03 #Virtualizacao (Virtualbox) e Linux (Distro Ubuntu)
+│   ├── 📁 Aula-03 # Virtualizacao (Virtualbox) e Linux (Distro Ubuntu)
 │   │   ├── 📄 Instalacao-do-Ubuntu.md
 │   │   └── 📄 Introducao-Microsoft-Word.md
 │   ├── 📁 Aula-04 # Fundamentos e atalhoss de teclado, Virtualbox SOs Linux e Distro Linux Ubuntu.
 │   │   ├── 📄 Material-Apoio-Atalhos-Funcoes-Teclado.md
 │   │   ├── 📄 Material-Apoio-Windows-Linux-Fundamentos-Estrutura-Comparacao.md 
 │   │   └── 📄 Pratica-Linux.md
-│   └── 📄 MÓDULO I-Informatica-Educativa-Redes.md
+│   ├── 📁 Aula-05 # Aplicativos e Ferramentas dos Sistemas Linux e Introdução ao Pacote Office
+│   │   ├── 📄 Conteudo.md
+│   │   ├── 📄 Atividades.md
+│   │   ├── 📄 Material-Apoio-Linux.md
+│   │   └── 📄 Material-Apoio-Pacote-Office.md
+│   └── 📄 MÓDULO I-Informatica-Educativa-Redes.pptx
+├── 📄 DIARIO.md
 └── 📄 README.md
 ```
 

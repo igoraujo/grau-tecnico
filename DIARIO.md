@@ -40,7 +40,7 @@
 
 ---
 
-## Semana 2: Virtualização e Linux
+## Semana 2: Virtualização e Linux e Introdução ao Pacote Office
 
 ### 📅 Data: 17/02/2025
 **📚 Conteúdo:**
@@ -54,6 +54,20 @@
 - ⚙️ Adicionando usuarios ao grupo de administradores (`sudo`)
 
 ---
+
+### 📅 Data: 19/02/2025
+**📚 Conteúdo:**
+- 🛠️ Aplicativos e Ferramentas dos Sistemas Linux - overview
+- 📝 Introdução ao Pacote Office
+
+**📝 Atividades:**
+- 🐧 Suporte individualizado no Ubuntu Linux
+- :mailbox: Acessar/Criar [e-mail Outlook](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=171&ct=1739983653&rver=7.5.2211.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fnlp%3d1%26cobrandid%3dab0455a0-8d03-46b9-b18b-df2f57b9e44c%26deeplink%3dowa%252f%253frealm%253doutlook.com%26RpsCsrfState%3d6c739aac-9d2a-f29a-007b-dd89cf91e974&id=292841&aadredir=1&whr=outlook.com&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=ab0455a0-8d03-46b9-b18b-df2f57b9e44c)
+- :link: Acessar o [Pacote Office Online](https://www.office.com/)
+- 📝 Criação de documentos em Word
+
+---
+
 <!-- 
 ### 📅 Data: 19/02/2025
 **📚 Conteúdo:**
