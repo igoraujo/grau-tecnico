@@ -1,15 +1,17 @@
-# Aula 06: Básico de Excel
+# 📚 Material de Apoio - Básico de Excel - Aula 07
 
-### 📅 Data: 24/02/2025
+>**Instrutor**: 👨🏾‍💻 Igor Araújo    
+**Linkedin**: 🔗 [igoraujo](https://www.linkedin.com/in/igoraujo)
+**📅 Data**: 24/02/2025
 
 ---
 
-## Objetivo
+## 🎯 Objetivo
 Introduzir os conceitos básicos do Microsoft Excel, incluindo a criação de planilhas, formatação de células, uso de fórmulas e funções básicas, e criação de gráficos.
 
 ---
 
-## Conteúdo
+## 📋 Conteúdo
 
 ### 1. Introdução ao Excel
 - **O que é o Excel?**
@@ -28,7 +30,7 @@ Introduzir os conceitos básicos do Microsoft Excel, incluindo a criação de pl
 - **Ajuste de Largura e Altura**
   - Ajustar a largura das colunas e a altura das linhas.
 
-### 3. Fórmulas e Funções Básicas (30 minutos)
+### 3. 📐 Fórmulas e Funções Básicas (30 minutos)
 - **Introdução às Fórmulas**
   - Como criar fórmulas básicas (adição, subtração, multiplicação, divisão).
 - **Funções Básicas**
@@ -36,7 +38,7 @@ Introduzir os conceitos básicos do Microsoft Excel, incluindo a criação de pl
 - **Referências de Células**
   - Referências absolutas e relativas.
 
-### 4. Criação de Gráficos
+### 4. 📊 Criação de Gráficos
 - **Tipos de Gráficos**
   - Gráficos de colunas, linhas, pizza, barras, etc.
 - **Criando um Gráfico**
@@ -44,7 +46,7 @@ Introduzir os conceitos básicos do Microsoft Excel, incluindo a criação de pl
 - **Personalização de Gráficos**
   - Alterar título, legendas, cores e estilos.
 
-### 5. Atividade Prática
+### 5. 📝 Atividade Prática
 - **Exercício 1: Criação de uma Planilha de Vendas**
   - Inserir dados de vendas em uma planilha.
   - Calcular o total de vendas usando a função `SOMA`.
@@ -55,7 +57,7 @@ Introduzir os conceitos básicos do Microsoft Excel, incluindo a criação de pl
 
 ---
 
-## Atividades
+## 🏋️‍♂️ Atividades
 
 ### Atividade 1: Criação de uma Planilha de Vendas
 1. Abra o Excel e crie uma nova planilha.
@@ -80,7 +82,7 @@ Introduzir os conceitos básicos do Microsoft Excel, incluindo a criação de pl
 
 ---
 
-# Principais Operações do Excel
+# 🔧 Principais Operações do Excel
 
 | Operação                   | pt-BR          | en-US          |
 |----------------------------|----------------|----------------|
@@ -118,14 +120,7 @@ Introduzir os conceitos básicos do Microsoft Excel, incluindo a criação de pl
 
 ---
 
-## Recursos Adicionais
+## 📚 Recursos Adicionais
 - [Guia de Introdução ao Excel](https://support.microsoft.com/pt-br/excel)
-
----
-
-### Contato
-
->**Instrutor**: 👨🏾‍💻 Igor Araújo    
-**Linkedin**: 🔗 [igoraujo](https://www.linkedin.com/in/igoraujo)
 
 ---
