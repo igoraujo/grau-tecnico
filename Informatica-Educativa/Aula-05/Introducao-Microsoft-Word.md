@@ -96,7 +96,7 @@
 
 ### **Materiais de Apoio:**  
 📌 **Guia Oficial do Microsoft Word:** [Suporte Microsoft Word](https://support.microsoft.com/pt-br/word)  
-📌 **Atalhos úteis do Word :us: :**  
+📌 **Atalhos úteis do Word 🇺🇸:**  
   - Ctrl + B → Negrito  
   - Ctrl + I → Itálico  
   - Ctrl + U → Sublinhado  
@@ -107,7 +107,7 @@
   - Ctrl + Y ou Ctrl + Shift + Z → Refazer 
   - Ctrl + P → Imprimir  
 
-📌 **Atalhos úteis do Word :brazil:**  
+📌 **Atalhos úteis do Word 🇧🇷:**  
   - Ctrl + N → Negrito  
   - Ctrl + I → Itálico  
   - Ctrl + S → Sublinhado  

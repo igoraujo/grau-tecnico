@@ -68,6 +68,28 @@
 
 ---
 
+### 📅 Data: 21/02/2025
+**📚 Conteúdo:**
+- 📝 Pacote Office: Word
+- 🛠️ Ferramentas de formatação e revisão
+
+**📝 Atividades:**
+- 🖋️ Exercícios práticos de formatação avançada no Word
+- 🖋️ Atividade Avaliativa 01
+
+---
+
+### 📅 Data: 24/02/2025
+**📚 Conteúdo:**
+- 📊 Pacote Office: Excel
+- 🛠️ Ferramentas de formatação e funções básicas
+
+**📝 Atividades:**
+- 📈 Criação de planilhas e gráficos no Excel
+- ➕ Uso de funções como SOMA, MÉDIA, PROCV
+
+---
+
 <!-- 
 ### 📅 Data: 19/02/2025
 **📚 Conteúdo:**
