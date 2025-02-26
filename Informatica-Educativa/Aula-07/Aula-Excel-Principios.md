@@ -87,7 +87,7 @@ Introduzir os conceitos básicos do Microsoft Excel, incluindo a criação de pl
 | Operação                   | pt-BR          | en-US          |
 |----------------------------|----------------|----------------|
 | Soma                       | SOMA           | SUM            |
-| Média                      | MÉDIA          | AVERAGE        |
+| Média                      | MÉDIA ou MED   | AVERAGE        |
 | Mínimo                     | MÍNIMO         | MIN            |
 | Máximo                     | MÁXIMO         | MAX            |
 | Contar Números             | CONT.NÚM       | COUNT          |
