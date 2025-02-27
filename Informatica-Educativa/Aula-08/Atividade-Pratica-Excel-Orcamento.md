@@ -1,4 +1,4 @@
-# :activity: Atividade Prárica Excel
+# 🏋️‍♂️ Atividade Prárica Excel
 
 >**Instrutor**: 👨🏾‍💻 Igor Araújo    
 **Linkedin**: 🔗 [igoraujo](https://www.linkedin.com/in/igoraujo)
