@@ -1,5 +1,7 @@
 # 📓 Diário de Bordo
 
+**Materias das aulas**: [Click aqui](https://github.com/igoraujo/grau-tecnico/) ou acesse: https://github.com/igoraujo/grau-tecnico/
+
 ---
 
 ## Semana 1: Introdução e Conceitos Básicos
@@ -87,6 +89,37 @@
 **📝 Atividades:**
 - 📈 Criação de planilhas e gráficos no Excel
 - ➕ Uso de funções como SOMA, MÉDIA, PROCV
+
+---
+
+### 📅 Data: 26/02/2025
+**📚 Conteúdo:**
+- 📈 Funçoes do Excel
+- 📝 Normas da ABNT para  a elaboração de trabalhos acadêmicos
+
+**📝 Atividades:**
+- 🏋️‍♂️ Atividade Prática de Excel
+
+---
+
+### 📅 Data: 28/02/2025
+**📚 Conteúdo:**
+- 🛠️ Correção da Atividade Prática de Excel
+- 📝 Introdução ao Microsoft PowerPoint
+    - Elementos, Transições e Efeitos
+
+**📝 Atividades:**
+- 🖋️ Criação e edição de documentos no PowerPoint
+
+---
+
+### 📅 Data: 07/03/2025
+**📚 Conteúdo:**
+- 📈 Funçoes do Excel (Procv)
+
+**📝 Atividades:**
+- 🖋️ Pratica utilizando Procv
+- ✏️ Atividade avaliativa
 
 ---
 
